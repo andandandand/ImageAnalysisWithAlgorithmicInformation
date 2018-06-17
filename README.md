@@ -15,8 +15,8 @@ A layered version of the Block Decomposition Method[1], serves as a descriptor o
 [4] Hector Zenil, Fernando Soler - Toscano, K. Dingle.and Aard Louis (2014) "Correlation of Automorphism Group Size and Topological Properties with Program-size Complexity Evaluations of Graphs and Complex Networks", Physica A : Statistical Mechanics and its Applications, vol.404, pp.341\[Dash]358. 
 
 ### Author: Antonio Rueda-Toicen
-antonio "dot" rueda "." toicen "at" gmail 'dot' com
-antonio "dot" rueda "." toicen "at" algorithmicnaturelab 'dot' com
+- antonio "dot" rueda "." toicen "at" gmail 'dot' com
+- antonio "dot" rueda "." toicen "at" algorithmicnaturelab 'dot' com
 
 ### License: FreeBSD 
 
