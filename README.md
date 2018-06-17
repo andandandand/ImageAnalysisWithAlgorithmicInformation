@@ -13,3 +13,6 @@ A layered version of the Block Decomposition Method[1], serves as a descriptor o
 
 ### Author: Antonio Rueda-Toicen
 antonio "dot" rueda "." toicen "at" gmail 'dot' com
+antonio "dot" rueda "." toicen "at" algorithmicnaturelab 'dot' com
+
+### License: FreeBSD 
