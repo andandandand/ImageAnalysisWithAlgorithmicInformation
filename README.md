@@ -25,6 +25,7 @@ If you use this code for a publication, please cite the above references and:
   journal = {GitHub repository},
   howpublished = {\https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation},
   DOI = {https://doi.org/10.5281/zenodo.1291510}
+  }
 ```
 
 ### Author: Antonio Rueda-Toicen
