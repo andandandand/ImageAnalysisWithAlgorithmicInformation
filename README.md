@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/136833836.svg)](https://zenodo.org/badge/latestdoi/136833836)
 
 
-# Image Charaterization through Layered Estimations of Algorithmic Information (Kolmogorov Complexity)
+# Image Characterization through Layered Estimations of Algorithmic Information (Kolmogorov Complexity)
 
 A layered version of the Block Decomposition Method[1] ("Layered BDM"), serves as a descriptor of both weighted networks and grayscale or color images.  This descriptor provides an estimate of Kolmogorov Complexity that's sensitive to morphological perturbation [2].  To estimate the complexity of a grayscale texture, we quantize it and aggregate the estimated Kolmogorov complexity values of binary 4 x 4 squares, estimated through the Coding Theorem Method [3, 4].
 
