@@ -14,6 +14,19 @@ A layered version of the Block Decomposition Method[1] ("Layered BDM"), serves a
 
 [4] Hector Zenil, Fernando Soler - Toscano, K. Dingle.and Aard Louis (2014) "Correlation of Automorphism Group Size and Topological Properties with Program-size Complexity Evaluations of Graphs and Complex Networks", Physica A : Statistical Mechanics and its Applications, vol.404, pp.341\[Dash]358. 
 
+If you use this code for a publication, please cite the above references and:
+
+```
+@misc{Rueda-Toicen2018,
+  author = {Rueda-Toicen, Antonio},
+  title = {Image Analysis with Algorithmic Information},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation},
+  DOI = {https://doi.org/10.5281/zenodo.1291510}
+```
+
 ### Author: Antonio Rueda-Toicen
 - antonio "dot" rueda "." toicen "at" gmail 'dot' com
 - antonio "dot" rueda "." toicen "at" algorithmicnaturelab 'dot' com
