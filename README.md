@@ -18,7 +18,7 @@ A layered version of the Block Decomposition Method[1] ("Layered BDM"), serves a
 
 Rueda-Toicen, Antonio, Image Analysis with Algorithmic Information, (2018), GitHub repository, https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation
 
-BibTex:
+#### BibTex
 ```
 @misc{Rueda-Toicen2018,
   author = {Rueda-Toicen, Antonio},
