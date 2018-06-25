@@ -5,6 +5,35 @@
 
 A layered version of the Block Decomposition Method[1] ("Layered BDM"), serves as a descriptor of both weighted networks and grayscale or color images.  This descriptor provides an estimate of Kolmogorov Complexity that's sensitive to morphological perturbation [2].  To estimate the complexity of a grayscale texture, we quantize it and aggregate the estimated Kolmogorov complexity values of binary 4 x 4 squares, estimated through the Coding Theorem Method [3, 4].
 
+### Pseudocode description of the Layered BDM algorithm
+```
+// CTMs is a hashtable with binary 2D blocks as keys
+// their respective values being estimations of Kolmogorov complexity 
+// obtained through the Coding Theorem Method
+function LayeredBDM (grayImage, CTMs, blockSize, blockOffset, q)
+
+	// the image is quantized in q digital levels
+	imag <- quantize(grayImage)
+	
+	blocksList = {}
+	for i in 1:q
+	    // the quantized image is binarized through the q digital layers
+   		binImag <- (binarize(i, imag))
+   		// and decomposed into n x n blocks, which are added to the blockList
+   		blocksList.append(blockDecompose(binImag, blockSize, blockOffset))
+
+	// we count the appearance of all binary blocks through all layers 
+	// and store the count of each into a hash table with the blocks as keys
+	// and the blockCount as values
+	blockHT(blocks:blockCount) <- countBlocks(blockList)
+
+	// The blocks' CTM values are retrieved from the CTMs hashtable, these and 
+	// the Log2 of the cardinality of each are added to compute the BDM value
+	lBDM <- CTMs(keys(blockHT)) + Log2(values(blockHT))
+	return(lBDM)
+
+```
+
 ### References
 [1] Hector Zenil, Santiago Hernández-Orozco, Narsis A.Kiani, Fernando Soler-Toscano, Antonio Rueda-Toicen, and Jesper Tegner "A Decomposition Method for Global Evaluation of Shannon Entropy and Local Estimations of Algorithmic Complexity", https://arxiv.org/abs/1609.00110
 
