@@ -45,7 +45,7 @@ function LayeredBDM (grayImage, CTMs, blockSize, blockOffset, q)
 
 ***If you use this code for a publication, please cite the above references and the following***:
 
-Rueda-Toicen, Antonio, Image Analysis with Algorithmic Information, (2018), GitHub repository, https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation
+Rueda-Toicen, Antonio, Image Analysis with Algorithmic Information, (2018), GitHub repository, https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation, DOI: /10.5281/zenodo.1291510 
 
 #### BibTex
 ```
