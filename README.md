@@ -13,7 +13,7 @@ A layered version of the Block Decomposition Method [1] ("Layered BDM"), serves 
 function LayeredBDM (grayImage, CTMs, blockSize, blockOffset, q)
 
 	// the image is quantized in q digital levels
-	imag <- quantize(grayImage)
+	imag <- quantize(grayImage, q)
 	
 	blocksList = {}
 	for i in 1:q
