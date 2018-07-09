@@ -18,7 +18,7 @@ function LayeredBDM (grayImage, CTMs, blockSize, blockOffset, q)
 	blocksList = {}
 	for i in 1:q
 	    // the quantized image is binarized through the q digital layers
-   		binImag <- (binarize(i, imag))
+   		binImag <- binarize(i, imag)
    		// and decomposed into n x n blocks, which are added to the blockList
    		blocksList.append(blockDecompose(binImag, blockSize, blockOffset))
 
