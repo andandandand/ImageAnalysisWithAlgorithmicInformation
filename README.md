@@ -3,7 +3,11 @@
 
 # Image Characterization through Layered Estimations of Algorithmic Information (Kolmogorov Complexity)
 
-A layered version of the Block Decomposition Method [1] ("Layered BDM"), serves as a descriptor of both weighted networks and grayscale or color images.  This descriptor provides an estimate of Kolmogorov Complexity that's sensitive to morphological perturbation [2].  To estimate the complexity of a grayscale texture, we quantize it and aggregate the estimated Kolmogorov complexity values of binary 4 x 4 squares, estimated through the Coding Theorem Method [3, 4].
+![morphological-perturbation](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/layered-bdm.png)
+
+![weighted-graph](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/weighted-graph-adj-matrix.png)
+
+A layered version of the Block Decomposition Method [1, 2] ("Layered BDM"), serves as a descriptor of both weighted networks and grayscale or color images.  This descriptor provides an estimate of Kolmogorov Complexity that's sensitive to morphological perturbation.  To estimate the complexity of a grayscale texture, we quantize it and aggregate the estimated Kolmogorov complexity values of binary 4 x 4 squares, estimated through the Coding Theorem Method [3, 4].
 
 ### Pseudocode description of the Layered BDM algorithm
 ```
@@ -35,9 +39,9 @@ function LayeredBDM (grayImage, CTMs, blockSize, blockOffset, q)
 ```
 
 ### References
-[1] Hector Zenil, Santiago Hernández-Orozco, Narsis A.Kiani, Fernando Soler-Toscano, Antonio Rueda-Toicen, and Jesper Tegner "A Decomposition Method for Global Evaluation of Shannon Entropy and Local Estimations of Algorithmic Complexity", https://arxiv.org/abs/1609.00110
+[1] Antonio Rueda-Toicen, Narsis A. Kiani, and Hector Zenil, "Morphological Image Analysis through Estimations of Kolmogorov Complexity" (in preparation)
 
-[2] Antonio Rueda-Toicen, Narsis A. Kiani, and Hector Zenil, "Morphological Image Analysis through Estimations of Kolmogorov Complexity" (in preparation)
+[2] Hector Zenil, Santiago Hernández-Orozco, Narsis A.Kiani, Fernando Soler-Toscano, Antonio Rueda-Toicen, and Jesper Tegner "A Decomposition Method for Global Evaluation of Shannon Entropy and Local Estimations of Algorithmic Complexity", https://arxiv.org/abs/1609.00110
 
 [3] Fernando Soler - Toscano, Hector Zenil, Jean-Paul Delahaye, and Nicolas Gauvrit (2014) "Calculating Kolmogorov Complexity from the Output Frequency Distributions of Small Turing Machines." PLoS ONE 9 (5) : e96223.
 
