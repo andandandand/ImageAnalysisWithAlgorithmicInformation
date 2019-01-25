@@ -47,7 +47,7 @@ function LayeredBDM (grayImage, CTMs, blockSize, blockOffset, q)
 
 [4] Hector Zenil, Fernando Soler-Toscano, K. Dingle, and Aard Louis (2014) "Correlation of Automorphism Group Size and Topological Properties with Program-size Complexity Evaluations of Graphs and Complex Networks", Physica A : Statistical Mechanics and its Applications, vol.404, pp.341-358. 
 
-***If you use this code for a publication, please cite the above references and the following***:
+***If you use this code or algorithm for a publication, please cite the above references and the following***:
 
 Rueda-Toicen, Antonio, Image Analysis with Algorithmic Information, (2018), GitHub repository, https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation, DOI: /10.5281/zenodo.1291510 
 
