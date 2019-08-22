@@ -39,7 +39,7 @@ function LayeredBDM (grayImage, CTMs, blockSize, blockOffset, q)
 ```
 
 ### References
-[1] Antonio Rueda-Toicen, Narsis A. Kiani, Hector Zenil, and Miguel Martín-Landrove, "Morphological Image Analysis through Estimations of Kolmogorov Complexity" (in preparation)
+[1] Antonio Rueda-Toicen, "Morphological Image Analysis through Estimations of Kolmogorov Complexity" (in preparation)
 
 [2] Hector Zenil, Santiago Hernández-Orozco, Narsis A.Kiani, Fernando Soler-Toscano, Antonio Rueda-Toicen, and Jesper Tegner "A Decomposition Method for Global Evaluation of Shannon Entropy and Local Estimations of Algorithmic Complexity", https://arxiv.org/abs/1609.00110
 
