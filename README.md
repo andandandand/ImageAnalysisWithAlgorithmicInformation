@@ -45,8 +45,6 @@ function LayeredBDM (grayImage, CTMs, blockSize, blockOffset, q)
 
 [3] Fernando Soler - Toscano, Hector Zenil, Jean-Paul Delahaye, and Nicolas Gauvrit (2014) "Calculating Kolmogorov Complexity from the Output Frequency Distributions of Small Turing Machines." PLoS ONE 9 (5) : e96223.
 
-[4] Hector Zenil, Fernando Soler-Toscano, K. Dingle, and Aard Louis (2014) "Correlation of Automorphism Group Size and Topological Properties with Program-size Complexity Evaluations of Graphs and Complex Networks", Physica A : Statistical Mechanics and its Applications, vol.404, pp.341-358. 
-
 ***If you use this code or algorithm for a publication, please cite the above references and the following***:
 
 Rueda-Toicen, Antonio, Image Analysis with Algorithmic Information, (2018), GitHub repository, https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation, DOI: /10.5281/zenodo.1291510 
