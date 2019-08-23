@@ -47,13 +47,13 @@ function LayeredBDM (grayImage, CTMs, blockSize, blockOffset, q)
 
 ***If you use this code or algorithm for a publication, please cite the above references and the following***:
 
-Rueda-Toicen, Antonio, Image Analysis with Algorithmic Information, (2018), GitHub repository, https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation, DOI: /10.5281/zenodo.1291510 
+Rueda-Toicen, Antonio, Image Analysis with Estimations of Kolmogorov Complexity, (2018), GitHub repository, https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation, DOI: /10.5281/zenodo.1291510 
 
 #### BibTex
 ```
 @misc{Rueda-Toicen2018,
   author = {Rueda-Toicen, Antonio},
-  title = {Image Analysis with Algorithmic Information},
+  title = {Image Analysis with Estimations of Kolmogorov Complexity},
   year = {2018},
   publisher = {GitHub},
   howpublished = {https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation},
