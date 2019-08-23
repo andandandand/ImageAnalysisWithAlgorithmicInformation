@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    232974,       4306]
-NotebookOptionsPosition[    225463,       4171]
-NotebookOutlinePosition[    226003,       4192]
-CellTagsIndexPosition[    225960,       4189]
+NotebookDataLength[    233019,       4306]
+NotebookOptionsPosition[    225507,       4171]
+NotebookOutlinePosition[    226048,       4192]
+CellTagsIndexPosition[    226005,       4189]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -4145,16 +4145,16 @@ Cell["\<\
 through Estimations of Kolmogorov Complexity\[CloseCurlyDoubleQuote] (in \
 preparation)
 
-[2] Hector Zenil, Santiago Hern\[AAcute]ndez - Orozco, Narsis A.Kiani, \
-Fernando Soler - Toscano, Antonio Rueda - Toicen, and Jesper Tegner \"A \
+[2] Hector Zenil, Santiago Hern\[AAcute]ndez - Orozco, Narsis A. Kiani, \
+Fernando Soler-Toscano, Antonio Rueda-Toicen, and Jesper Tegner \"A \
 Decomposition Method for Global Evaluation of Shannon Entropy and Local \
 Estimations of Algorithmic Complexity\", https://arxiv.org/abs/1609.00110\
 \>", "Text",
  CellChangeTimes->{{3.738180257733848*^9, 3.7381802626258726`*^9}, {
   3.738180311918175*^9, 3.738180401711252*^9}, {3.738180576346461*^9, 
-  3.7381805766646714`*^9}, {3.77557269905254*^9, 
-  3.77557270871948*^9}},ExpressionUUID->"e6323e34-fc00-460a-a91c-\
-1ab2a47c3249"],
+  3.7381805766646714`*^9}, {3.77557269905254*^9, 3.77557270871948*^9}, {
+  3.7755739572164545`*^9, 
+  3.7755739684086*^9}},ExpressionUUID->"e6323e34-fc00-460a-a91c-1ab2a47c3249"],
 
 Cell["\<\
 [3] Fernando Soler - Toscano, Hector Zenil, Jean-Paul Delahaye, and Nicolas \
@@ -4169,8 +4169,8 @@ the Output Frequency Distributions of Small Turing Machines.\
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{1350, 685},
-WindowMargins->{{-8, Automatic}, {Automatic, 0}},
+WindowSize->{1366, 685},
+WindowMargins->{{-8, Automatic}, {Automatic, -8}},
 PrintingCopies->1,
 PrintingPageRange->{32000, 32000},
 PrintingOptions->{"Magnification"->1.,
@@ -4192,7 +4192,7 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 344, 7, 305, "Title",ExpressionUUID->"dddfd1a9-e133-4c3f-91d3-d2815eafc8f9"],
+Cell[580, 22, 344, 7, 220, "Title",ExpressionUUID->"dddfd1a9-e133-4c3f-91d3-d2815eafc8f9"],
 Cell[927, 31, 255, 5, 48, "Text",ExpressionUUID->"f7ae7a78-3db5-447b-9217-ca2cc37f4227"],
 Cell[1185, 38, 264, 5, 48, "Text",ExpressionUUID->"b11b4ffb-495e-42a2-ab91-8e6b892342ba"],
 Cell[1452, 45, 248, 4, 48, "Text",ExpressionUUID->"47077172-ebf2-4464-99be-e0117b97565c"],
@@ -4304,8 +4304,8 @@ Cell[223677, 4128, 266, 3, 46, "Output",ExpressionUUID->"ea432683-3ef5-46d3-b60f
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[223992, 4137, 157, 3, 92, "Section",ExpressionUUID->"842c6e8a-6097-4351-8227-df31dab3273d"],
-Cell[224152, 4142, 759, 14, 173, "Text",ExpressionUUID->"e6323e34-fc00-460a-a91c-1ab2a47c3249"],
-Cell[224914, 4158, 521, 9, 80, "Text",ExpressionUUID->"528a0ad1-3753-4e51-897b-95c5173d370b"]
+Cell[224152, 4142, 803, 14, 173, "Text",ExpressionUUID->"e6323e34-fc00-460a-a91c-1ab2a47c3249"],
+Cell[224958, 4158, 521, 9, 80, "Text",ExpressionUUID->"528a0ad1-3753-4e51-897b-95c5173d370b"]
 }, Open  ]]
 }, Open  ]]
 }
