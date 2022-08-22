@@ -3,7 +3,7 @@
 
 # Image Characterization through Layered Estimations of Algorithmic Information (Kolmogorov Complexity)
 
-![morphological-perturbation](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/layered-bdm.png)
+![morphological-perturbation](https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation/blob/master/images/Screenshot%202022-08-22%20at%2010.51.28.png?raw=true)
 
 ![weighted-graph](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/weighted-graph-adj-matrix.png)
 
