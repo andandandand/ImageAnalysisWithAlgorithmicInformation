@@ -5,7 +5,7 @@
 
 ![morphological-perturbation](https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation/blob/master/images/Screenshot%202022-08-22%20at%2010.51.28.png?raw=true)
 
-![weighted-graph](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/weighted-graph-adj-matrix.png)
+![weighted-graph](https://github.com/andandandand/ImageAnalysisWithAlgorithmicInformation/blob/master/images/Screenshot%202022-08-22%20at%2011.17.38.png?raw=true)
 
 A layered version of the Block Decomposition Method [1, 2] ("Layered BDM"), serves as a descriptor of both weighted networks and grayscale or color images.  This descriptor provides an estimate of Kolmogorov Complexity that's sensitive to morphological perturbation.  To estimate the complexity of a grayscale texture, we quantize it and aggregate the estimated Kolmogorov complexity values of binary 4 x 4 squares, estimated through the Coding Theorem Method [3, 4].
 
